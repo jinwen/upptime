@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 158,
-    "timeWeek": 158,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "time": 184,
+    "timeDay": 184,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 184,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 186,
-    "timeDay": 186,
-    "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "time": 178,
+    "timeDay": 178,
+    "timeWeek": 178,
+    "timeMonth": 178,
+    "timeYear": 178,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bagdb-cn.plus.ai.ico",
     "slug": "bag-db-test-broken",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "0.26%",
+    "uptimeDay": "0.26%",
+    "uptimeWeek": "0.26%",
+    "uptimeMonth": "0.26%",
+    "uptimeYear": "0.26%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-28": 4
+      "2023-02-28": 6
     }
   }
 ]
